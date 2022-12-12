@@ -1,4 +1,4 @@
-# AstarAlgorithm in Unity
+# Astar Algorithm in Unity
 
 ### A basic unity demo to help with A* understanding.
 
