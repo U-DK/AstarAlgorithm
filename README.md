@@ -1,5 +1,5 @@
-# AstarAlgorithm
+# AstarAlgorithm in Unity
 
-### A basic demo to help with A* understanding.
+### A basic unity demo to help with A* understanding.
 
 Simple demo A* algorithm using Manhattans distance as heuristic function.
